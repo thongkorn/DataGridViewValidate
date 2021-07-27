@@ -1,1 +1,3 @@
-# DataGridViewValidate
+# DataGridViewValidate VB.NET (2010)
+
+# โค้ดชุดนี้จะทำการตรวจสอบค่าในการกดคีย์ บางหลักจะรับค่าได้เฉพาะเลขจำนวนเต็ม บางหลักจะรับเลขทศนิยม (มีจุดได้แค่ตัวเดียว) และการสร้าง DateTimePicker, CheckBox และ Button ให้มาอยู่บน DataGridView ได้
